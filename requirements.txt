@@ -1,0 +1,5 @@
+crewai
+redis
+pinecone-client
+python-dotenv
+google-generativeai
